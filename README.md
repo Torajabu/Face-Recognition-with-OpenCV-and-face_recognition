@@ -1,4 +1,5 @@
 # Face-Recognition-with-OpenCV-and-face_recognition
+![](https://github.com/Raj-med/Face-Recognition-with-OpenCV-and-face_recognition/blob/main/facerecog.gif)
 
 This project demonstrates real-time face recognition using a webcam feed. The script leverages OpenCV for video processing and the `face_recognition` library for face detection and recognition.
 
