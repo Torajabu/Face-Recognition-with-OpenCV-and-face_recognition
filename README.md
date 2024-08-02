@@ -71,3 +71,4 @@ Press the `q` key to exit the video feed and close the application.
 - Ensure your webcam is properly connected.
 - The script uses the first face encoding found in each image. Make sure each image contains only one face for accurate encoding.
 - Adjust the `r"path_to_your_image\..."` paths to reflect the actual paths to your image files.
+- Also notice that eventhough the photo of me used in training was significatly different with full hair and no beard, the project successfully identifies me in the real time webcam with beard and shaven head
